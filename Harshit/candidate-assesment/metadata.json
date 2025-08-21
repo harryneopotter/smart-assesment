@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Candidate Assessment & Scorecard",
+  "description": "A web-based interactive assessment tool that allows candidates to answer a structured set of questions, evaluates their responses using AI, and generates a visual scorecard reflecting passion, motivation, skills, and behavior patterns.",
+  "requestFramePermissions": []
+}
