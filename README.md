@@ -70,7 +70,7 @@ The application should now be running on `http://localhost:5173`.
 
 ## 📸 Screenshots
 
-*Coming soon...*
+<img src="assets/smart_assesment.jpg" width="100%">
 
 ## 📄 License
 
